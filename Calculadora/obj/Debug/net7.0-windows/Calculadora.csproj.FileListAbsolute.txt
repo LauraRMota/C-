@@ -1,0 +1,54 @@
+E:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+E:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+E:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+E:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+E:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.frmCalculadora.resources
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
+E:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.Properties.Resources.resources
+D:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+D:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+D:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+D:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+D:\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.frmCalculadora.resources
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.Properties.Resources.resources
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+D:\Laura\VS\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.frmCalculadora.resources
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\laura\Desktop\Projetos em C#\Laura\VS\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
