@@ -1,0 +1,22 @@
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.AssemblyReference.cache
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.frmCalculoMedia.resources
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.Properties.Resources.resources
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.GenerateResource.cache
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\MICROLINS\Documents\Média aluno VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.exe
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.pdb
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.AssemblyReference.cache
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.SuggestedBindingRedirects.cache
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.frmCalculoMedia.resources
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.Properties.Resources.resources
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.GenerateResource.cache
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.CoreCompileInputs.cache
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+D:\Laura\VS\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb
